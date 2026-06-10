@@ -128,7 +128,7 @@ This Harness is licensed under the MIT License. See [opensource.org/licenses/MIT
 Actuary. Management of special projects for FS firms.  
 Experienced in IT, Process Engineering, Compliance, Risk Management, AI/LLMs. Architect of this repo.
 
-**Contact:** [FCAHandbookHarnessRepo@jbmd.co.uk](mailto:FCAHandbookHarnessRepo@jbmd.co.uk)  
+**Contact:** [fca-handbook-harness-repo@jbmd.co.uk](mailto:fca-handbook-harness-repo@jbmd.co.uk)  
 **Website:** [JBMD.co.uk](https://jbmd.co.uk)
 
 **Available for:**
